@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I'm Victor, a Maritime Transport and Nautical Engineering graduate, currently in the final year of my Vocational Training in Web Development. My career path has led me to develop a strong interest in technology, particularly in web development and data analysis.
 
-I recently earned my Microsoft Azure DP-900 certification, which sparked my passion for Big Data, Artificial Intelligence, and the role of a Data Scientist/Data Engineer. I am continuously learning and exploring new technologies to apply this knowledge to real-world scenarios.
+I recently earned my Azure Data Fundamentals DP-900 certification, which sparked my passion for Big Data, Artificial Intelligence, and the role of a Data Scientist/Data Engineer. I am continuously learning and exploring new technologies to apply this knowledge to real-world scenarios.
 
 My professional goal is to find an opportunity in the field of data and AI, where I can contribute my skills and continue to grow in this exciting industry.
 ## 🌐 Socials:
